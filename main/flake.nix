@@ -11,6 +11,7 @@
   inputs.src-nimdbx-main.ref   = "refs/heads/main";
   inputs.src-nimdbx-main.owner = "snej";
   inputs.src-nimdbx-main.repo  = "nimdbx";
+  inputs.src-nimdbx-main.dir   = "";
   inputs.src-nimdbx-main.type  = "github";
   
   inputs."nimterop".owner = "nim-nix-pkgs";
